@@ -1,1 +1,2 @@
-This folder will hold code I wrote that classifies Amazon product reviews.
+Graphs folder shows visualization of different classification methods
+Release folder includes codes for classifiers
